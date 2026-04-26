@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Return To The Roots\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-06 13:54+0100\n"
-"PO-Revision-Date: 2026-04-19 08:55+0200\n"
+"PO-Revision-Date: 2026-04-26 08:54+0200\n"
 "Last-Translator: Return To The Roots Team <sf-team@siedler25.de>\n"
 "Language-Team: Return To The Roots <sf-team@siedler25.org>\n"
 "Language: fr_FR\n"
@@ -4684,6 +4684,34 @@ msgstr "Terres désolées"
 #: data/RTTR/gamedata/world/winterworld.lua:8
 msgid "winterworld"
 msgstr "Monde de l'hiver"
+
+# libs/s25main/desktops/dskOptions.cpp:349
+msgid "Borderless window"
+msgstr "Fênetre sans bordures"
+
+# libs/s25main/desktops/dskOptions.cpp:349
+msgid "Window size:"
+msgstr "Taile la fenetre :"
+
+# libs/s25main/desktops/dskOptions.cpp:353
+msgid "Lock window size:"
+msgstr "Verrouiller la fenetre :"
+
+# libs/s25main/addons/AddonLeather.h:17
+msgid "Enable leather economy"
+msgstr "Activer l'économie du cuir"
+
+# libs/s25main/addons/AddonLeather.h:18
+msgid "Allows to build the leather economy buildings."
+msgstr "Permet de construire les bâtiments de l'économie du cuir."
+
+#: libs/s25main/gameData/BuildingConsts.cpp:16
+msgid "Tannery"
+msgstr "Tannerie"
+
+# libs/s25main/gameData/BuildingConsts.cpp:25
+msgid "Leatherworks"
+msgstr "Atelier de cuir"
 
 #~ msgid "Coming soon"
 #~ msgstr "A venir"
